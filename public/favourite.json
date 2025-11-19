@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "title": "PUBG",
+        "coverPhoto": "https://i.ibb.co.com/HfT2qSyg/PUBG.jpg",
+        "category": "Battle Royale",
+        "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
+        "description": "PUBG Mobile is a fast-paced battle royale game where players fight for survival, strategy, and victory on dynamic maps.",
+        "ratings": "4.5",
+        "developer": "Krafton"
+    },
+    {
+        "id": "2",
+        "title": "Genshin Impact",
+        "coverPhoto": "https://i.ibb.co.com/gZtdg6LQ/Genshin-Impact.jpg",
+        "category": "Action RPG",
+        "downloadLink": "https://genshin.hoyoverse.com/en/",
+        "description": "An open-world action RPG that takes place in the fantasy world of Teyvat, where players can explore a massive world and engage in elemental combat.",
+        "ratings": "4.7",
+        "developer": "miHoYo"
+    },
+    {
+        "id": "3",
+        "title": "Call of Duty",
+        "coverPhoto": "https://i.ibb.co.com/S1x9Dxf/Call-of-Duty.webp",
+        "category": "FPS",
+        "downloadLink": "https://www.callofduty.com/mobile",
+        "description": "Experience the legendary Call of Duty action with classic multiplayer maps and modes, plus a 100-player Battle Royale.",
+        "ratings": "4.6",
+        "developer": "TiMi Studio Group"
+    },
+    {
+        "id": "4",
+        "title": "Fortnite",
+        "coverPhoto": "https://i.ibb.co.com/XfL6TX9C/Fortnite.jpg",
+        "category": "Battle Royale",
+        "downloadLink": "https://www.fortnite.com/",
+        "description": "The ultimate build-and-battle experience where you can drop onto a massive island and compete to be the last one standing.",
+        "ratings": "4.3",
+        "developer": "Epic Games"
+    },
+    {
+        "id": "5",
+        "title": "Minecraft",
+        "coverPhoto": "https://i.ibb.co.com/Sh3pHsV/Minecraft.webp",
+        "category": "Sandbox",
+        "downloadLink": "https://www.minecraft.net/en-us",
+        "description": "A game where players can explore blocky, procedurally generated 3D worlds and discover and extract raw materials, craft tools and items, and build structures.",
+        "ratings": "4.6",
+        "developer": "Mojang Studios"
+    }
+]

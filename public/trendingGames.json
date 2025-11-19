@@ -1,0 +1,42 @@
+[
+    {
+        "id": "18",
+        "title": "Baldur's Gate 3",
+        "coverPhoto": "https://i.ibb.co.com/Z1gJCSN2/Baldurs-Gate.jpg",
+        "category": "Role-Playing Game (RPG)",
+        "downloadLink": "https://larian.com/games/baldurs-gate-3",
+        "description": "A story-rich, party-based RPG set in the Dungeons & Dragons universe, featuring deep tactical combat and player choice.",
+        "ratings": "4.9",
+        "developer": "Larian Studios"
+    },
+    {
+        "id": "15",
+        "title": "Grand Theft Auto V (GTA V)",
+        "coverPhoto": "https://i.ibb.co.com/xty8n2n8/GTAV.jpg",
+        "category": "Action-Adventure",
+        "downloadLink": "https://www.rockstargames.com/gta-v",
+        "description": "An open-world action-adventure game set in the fictional state of San Andreas, featuring a massive map and both single-player and online components.",
+        "ratings": "4.8",
+        "developer": "Rockstar North"
+    },
+    {
+        "id": "16",
+        "title": "The Witcher 3: Wild Hunt",
+        "coverPhoto": "https://i.ibb.co.com/LhQKFVyr/Witcher-3.jpg",
+        "category": "Open-World RPG",
+        "downloadLink": "https://www.thewitcher.com/en/witcher3",
+        "description": "Play as monster slayer Geralt of Rivia in a dark fantasy open world, tracking down a child of prophecy in this acclaimed RPG.",
+        "ratings": "4.9",
+        "developer": "CD Projekt Red"
+    },
+    {
+        "id": "18",
+        "title": "Baldur's Gate 3",
+        "coverPhoto": "https://i.ibb.co.com/Z1gJCSN2/Baldurs-Gate.jpg",
+        "category": "Role-Playing Game (RPG)",
+        "downloadLink": "https://larian.com/games/baldurs-gate-3",
+        "description": "A story-rich, party-based RPG set in the Dungeons & Dragons universe, featuring deep tactical combat and player choice.",
+        "ratings": "4.9",
+        "developer": "Larian Studios"
+    }
+]
