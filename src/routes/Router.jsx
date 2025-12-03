@@ -10,9 +10,10 @@ import ErrorPage from "../pages/ErrorPage";
 import Register from "../pages/Register";
 import PrivateRoute from "../Provider/PrivateRoute";
 import MyProfile from "../pages/MyProfile";
-import Favourite from "../pages/Favourite";
+import DownloadedGames from "../pages/DownloadedGames";
 import UpdateProfileForm from "../pages/UpdateProfileForm";
 import AboutUs from "../pages/AboutUs";
+import Support from "../pages/Support";
 
 const router = createBrowserRouter([
     {
@@ -44,10 +45,10 @@ const router = createBrowserRouter([
                 ),
             },
             {
-                path: "/favourite",
+                path: "/downloaded-games",
                 element: (
                     <PrivateRoute>
-                        <Favourite></Favourite>
+                        <DownloadedGames></DownloadedGames>
                     </PrivateRoute>
                 ),
             },
@@ -62,6 +63,10 @@ const router = createBrowserRouter([
             {
                 path: "/about-us",
                 element: <AboutUs></AboutUs>,
+            },
+            {
+                path: "/support",
+                element: <Support></Support>,
             },
         ],
     },
