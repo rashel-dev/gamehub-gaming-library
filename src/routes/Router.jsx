@@ -12,6 +12,7 @@ import PrivateRoute from "../Provider/PrivateRoute";
 import MyProfile from "../pages/MyProfile";
 import Favourite from "../pages/Favourite";
 import UpdateProfileForm from "../pages/UpdateProfileForm";
+import AboutUs from "../pages/AboutUs";
 
 const router = createBrowserRouter([
     {
@@ -43,21 +44,25 @@ const router = createBrowserRouter([
                 ),
             },
             {
-                path: '/favourite',
+                path: "/favourite",
                 element: (
                     <PrivateRoute>
                         <Favourite></Favourite>
                     </PrivateRoute>
-                )
+                ),
             },
             {
-                path: '/UpdateProfileForm',
+                path: "/UpdateProfileForm",
                 element: (
                     <PrivateRoute>
                         <UpdateProfileForm></UpdateProfileForm>
                     </PrivateRoute>
-                )
-            }
+                ),
+            },
+            {
+                path: "/about-us",
+                element: <AboutUs></AboutUs>,
+            },
         ],
     },
     {

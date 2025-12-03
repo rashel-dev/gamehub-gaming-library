@@ -1,5 +1,5 @@
 import { Navigate, NavLink, useNavigate } from "react-router";
-import logoImg from "../assets/";
+import logoImg from "../assets/Gamehub logo2.png";
 import { RiMenu2Fill } from "react-icons/ri";
 import { AuthContext } from "../context/AuthContext";
 import { use } from "react";
@@ -37,10 +37,17 @@ const Header = () => {
                 </NavLink>
             </li>
             <li>
-                <NavLink to="/favourite" className="hover:text-primary">
-                    Favourite
+                <NavLink to="/about-us" className="hover:text-primary">
+                    About Us
                 </NavLink>
             </li>
+            {user && (
+                <li>
+                    <NavLink to="/favourite" className="hover:text-primary">
+                        Favourite
+                    </NavLink>
+                </li>
+            )}
         </>
     );
 
