@@ -7,7 +7,8 @@
         "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
         "description": "PUBG Mobile is a fast-paced battle royale game where players fight for survival, strategy, and victory on dynamic maps.",
         "ratings": "4.5",
-        "developer": "Krafton"
+        "developer": "Krafton",
+        "downloads": 1500000
     },
     {
         "id": "2",
@@ -17,7 +18,8 @@
         "downloadLink": "https://genshin.hoyoverse.com/en/",
         "description": "An open-world action RPG that takes place in the fantasy world of Teyvat, where players can explore a massive world and engage in elemental combat.",
         "ratings": "4.7",
-        "developer": "miHoYo"
+        "developer": "miHoYo",
+        "downloads": 850000
     },
     {
         "id": "3",
@@ -27,7 +29,8 @@
         "downloadLink": "https://www.callofduty.com/mobile",
         "description": "Experience the legendary Call of Duty action with classic multiplayer maps and modes, plus a 100-player Battle Royale.",
         "ratings": "4.6",
-        "developer": "TiMi Studio Group"
+        "developer": "TiMi Studio Group",
+        "downloads": 1200000
     },
     {
         "id": "4",
@@ -37,7 +40,8 @@
         "downloadLink": "https://www.fortnite.com/",
         "description": "The ultimate build-and-battle experience where you can drop onto a massive island and compete to be the last one standing.",
         "ratings": "4.3",
-        "developer": "Epic Games"
+        "developer": "Epic Games",
+        "downloads": 980000
     },
     {
         "id": "5",
@@ -47,7 +51,8 @@
         "downloadLink": "https://www.minecraft.net/en-us",
         "description": "A game where players can explore blocky, procedurally generated 3D worlds and discover and extract raw materials, craft tools and items, and build structures.",
         "ratings": "4.6",
-        "developer": "Mojang Studios"
+        "developer": "Mojang Studios",
+        "downloads": 2100000
     },
     {
         "id": "6",
@@ -57,7 +62,8 @@
         "downloadLink": "https://wildrift.leagueoflegends.com/en-us/",
         "description": "A 5v5 MOBA designed for mobile, bringing the strategic depth of League of Legends to a new platform.",
         "ratings": "4.4",
-        "developer": "Riot Games"
+        "developer": "Riot Games",
+        "downloads": 650000
     },
     {
         "id": "7",
@@ -67,7 +73,8 @@
         "downloadLink": "https://clashofclans.com/",
         "description": "Build your village, train your troops and go to battle against millions of other players online.",
         "ratings": "4.5",
-        "developer": "Supercell"
+        "developer": "Supercell",
+        "downloads": 720000
     },
     {
         "id": "8",
@@ -77,7 +84,8 @@
         "downloadLink": "https://www.roblox.com/",
         "description": "An online platform where users can program games and play games created by other users.",
         "ratings": "4.2",
-        "developer": "Roblox Corporation"
+        "developer": "Roblox Corporation",
+        "downloads": 1800000
     },
     {
         "id": "9",
@@ -87,7 +95,8 @@
         "downloadLink": "https://ff.garena.com/",
         "description": "A survival shooter game where 50 players parachute onto a remote island, seeking to be the last one standing.",
         "ratings": "4.1",
-        "developer": "Garena"
+        "developer": "Garena",
+        "downloads": 890000
     },
     {
         "id": "10",
@@ -97,7 +106,8 @@
         "downloadLink": "https://king.com/game/CandyCrush",
         "description": "Switch and match Candies in this divine puzzle adventure to progress to the next level.",
         "ratings": "4.4",
-        "developer": "King"
+        "developer": "King",
+        "downloads": 1350000
     },
     {
         "id": "11",
@@ -107,7 +117,8 @@
         "downloadLink": "https://www.innersloth.com/games/among-us/",
         "description": "A social deduction game where crewmates work together to complete tasks, but must beware of the Impostors among them.",
         "ratings": "4.0",
-        "developer": "Innersloth"
+        "developer": "Innersloth",
+        "downloads": 560000
     },
     {
         "id": "12",
@@ -117,7 +128,8 @@
         "downloadLink": "https://www.mobilelegends.com/en/main",
         "description": "Join your friends in a brand new 5v5 MOBA showdown against real human opponents.",
         "ratings": "4.3",
-        "developer": "Moonton"
+        "developer": "Moonton",
+        "downloads": 780000
     },
     {
         "id": "13",
@@ -127,7 +139,8 @@
         "downloadLink": "https://www.asphaltlegends.com/",
         "description": "Drive the world's best hypercars and experience the thrill of arcade racing in spectacular locations.",
         "ratings": "4.6",
-        "developer": "Gameloft"
+        "developer": "Gameloft",
+        "downloads": 620000
     },
     {
         "id": "14",
@@ -137,7 +150,8 @@
         "downloadLink": "https://www.pokemongo.com/",
         "description": "Explore the real world and discover Pokémon wherever you are in this AR adventure game.",
         "ratings": "4.2",
-        "developer": "Niantic"
+        "developer": "Niantic",
+        "downloads": 940000
     },
     {
         "id": "15",
@@ -147,7 +161,8 @@
         "downloadLink": "https://www.rockstargames.com/gta-v",
         "description": "An open-world action-adventure game set in the fictional state of San Andreas, featuring a massive map and both single-player and online components.",
         "ratings": "4.8",
-        "developer": "Rockstar North"
+        "developer": "Rockstar North",
+        "downloads": 1650000
     },
     {
         "id": "16",
@@ -157,7 +172,8 @@
         "downloadLink": "https://www.thewitcher.com/en/witcher3",
         "description": "Play as monster slayer Geralt of Rivia in a dark fantasy open world, tracking down a child of prophecy in this acclaimed RPG.",
         "ratings": "4.9",
-        "developer": "CD Projekt Red"
+        "developer": "CD Projekt Red",
+        "downloads": 1100000
     },
     {
         "id": "17",
@@ -167,7 +183,8 @@
         "downloadLink": "https://www.counter-strike.net/cs2",
         "description": "The next era of the classic team-based tactical shooter, built on the Source 2 engine with upgraded features and competitive play.",
         "ratings": "4.6",
-        "developer": "Valve"
+        "developer": "Valve",
+        "downloads": 1450000
     },
     {
         "id": "18",
@@ -177,7 +194,8 @@
         "downloadLink": "https://larian.com/games/baldurs-gate-3",
         "description": "A story-rich, party-based RPG set in the Dungeons & Dragons universe, featuring deep tactical combat and player choice.",
         "ratings": "4.9",
-        "developer": "Larian Studios"
+        "developer": "Larian Studios",
+        "downloads": 920000
     },
     {
         "id": "19",
@@ -187,7 +205,8 @@
         "downloadLink": "https://www.leagueoflegends.com/en-us/download/",
         "description": "A fast-paced, competitive, online battle arena where two teams of five powerful champions clash to destroy the enemy's base.",
         "ratings": "4.5",
-        "developer": "Riot Games"
+        "developer": "Riot Games",
+        "downloads": 1750000
     },
     {
         "id": "20",
@@ -197,6 +216,7 @@
         "downloadLink": "https://us.shop.battle.net/en-us/family/starcraft-ii",
         "description": "Command three unique and powerful races in an epic sci-fi strategy game featuring vast campaigns and competitive multiplayer.",
         "ratings": "4.7",
-        "developer": "Blizzard Entertainment"
+        "developer": "Blizzard Entertainment",
+        "downloads": 580000
     }
 ]
