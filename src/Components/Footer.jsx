@@ -1,6 +1,8 @@
 import React from "react";
 import { FaFacebook, FaInstagram, FaLinkedin, FaTwitter } from "react-icons/fa";
 import { Link } from "react-router";
+import logoImg from "../assets/Gamehub logo2.png";
+
 
 const Footer = () => {
     return (
@@ -13,9 +15,7 @@ const Footer = () => {
                     <div className="space-y-4">
                         <div className="flex items-center gap-2">
                             <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center">
-                                <svg className="w-5 h-5 text-primary-content" fill="currentColor" viewBox="0 0 24 24">
-                                    <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5" />
-                                </svg>
+                                <img className="w-10 rounded" src={logoImg} alt="Nexus Play Logo" />
                             </div>
                             <span className="text-xl font-bold text-primary">Game Hub</span>
                         </div>

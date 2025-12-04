@@ -4,7 +4,8 @@ import { Navigation, Pagination, Autoplay } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
-import {motion} from "framer-motion";
+
+import { motion } from "framer-motion";
 
 const BannerSlider = () => {
     const bannerImages = [
@@ -38,7 +39,7 @@ const BannerSlider = () => {
     ];
 
     return (
-        <motion.section initial={{ opacity: 0, y: 50 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6 }} className="relative h-[400px] sm:h-[500px] md:h-[600px] overflow-hidden">
+        <motion.section initial={{ opacity: 0, y: 50 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6 }} className="relative h-[70vh] overflow-hidden">
             <Swiper
                 modules={[Navigation, Pagination, Autoplay]}
                 spaceBetween={0}
@@ -61,12 +62,12 @@ const BannerSlider = () => {
             >
                 {bannerImages.map((image) => (
                     <SwiperSlide key={image.id}>
-                        <div className="relative h-full w-full">
+                        <div className="relative h-[70vh] w-full">
                             <div className="absolute inset-0 bg-cover bg-center bg-no-repeat" style={{ backgroundImage: `url(${image.src})` }}>
                                 <div className="absolute inset-0 bg-black/40"></div>
                             </div>
 
-                            <div className="relative z-10 h-full flex items-center justify-center text-center px-3 sm:px-4">
+                            <div className="relative z-10 h-[70vh] flex items-center justify-center text-center px-3 sm:px-4">
                                 <div className="max-w-4xl mx-auto">
                                     <div className="mb-2 sm:mb-4">
                                         <span className="badge badge-primary text-xs sm:text-sm px-2 sm:px-3 py-1">{image.category}</span>

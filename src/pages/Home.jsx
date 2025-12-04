@@ -2,6 +2,9 @@ import React, { useEffect } from "react";
 import BannerSlider from "../Components/BannerSlider";
 import PopularGames from "../Components/PopularGames";
 import Newsletter from "../Components/Newsletter";
+import FeaturedCategories from "../Components/FeaturedCategories";
+import TopDevelopers from "../Components/TopDevelopers";
+import CommunityStats from "../Components/CommunityStats";
 import { motion } from "motion/react";
 
 const gamesData = [
@@ -106,15 +109,21 @@ const Home = () => {
         <div>
             <BannerSlider></BannerSlider>
 
-            <motion.div initial={{ opacity: 0, x: 100 }}   
-                        whileInView={{ opacity: 1, x: 0 }} 
-                        transition={{ duration: 0.8 }}
-                        viewport={{ once: false, amount: 0.3 }} className="container mx-auto px-4 py-8">
+            <motion.div
+                initial={{ opacity: 0, x: 100 }}
+                whileInView={{ opacity: 1, x: 0 }}
+                transition={{ duration: 0.8 }}
+                viewport={{ once: false, amount: 0.3 }}
+                className="container mx-auto px-4 py-8"
+            >
                 <h2 className="text-3xl font-bold text-center mb-8">Welcome to Game Hub</h2>
                 <p className="text-center text-gray-600 max-w-2xl mx-auto">Discover amazing games, connect with fellow gamers, and join the ultimate gaming community.</p>
             </motion.div>
 
             <PopularGames gamesData={gamesData}></PopularGames>
+            <FeaturedCategories></FeaturedCategories>
+            <TopDevelopers></TopDevelopers>
+            <CommunityStats></CommunityStats>
             <Newsletter></Newsletter>
         </div>
     );
